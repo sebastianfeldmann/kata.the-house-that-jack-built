@@ -28,7 +28,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the maiden all forlorn that milked
     the cow with the crumpled horn that tossed
     the dog that worried
@@ -36,7 +36,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the man all tattered and torn that kissed
     the maiden all forlorn that milked
     the cow with the crumpled horn that tossed
@@ -45,7 +45,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the priest all shaven and shorn that married
     the man all tattered and torn that kissed
     the maiden all forlorn that milked
@@ -55,7 +55,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the rooster that crowed in the morn that woke
     the priest all shaven and shorn that married
     the man all tattered and torn that kissed
@@ -66,7 +66,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the farmer sowing his corn that kept
     the rooster that crowed in the morn that woke
     the priest all shaven and shorn that married
@@ -78,7 +78,7 @@ Full poem recite should look like this:
     the rat that ate
     the malt that lay in
     the house that Jack built.
-     
+    
     This is the horse and the hound and the horn that belonged to
     the farmer sowing his corn that kept
     the rooster that crowed in the morn that woke
@@ -92,5 +92,6 @@ Full poem recite should look like this:
     the malt that lay in
     the house that Jack built.
 
+You can ignore most line breaks. For an exact output look at the `output.txt` file. 
 
 
