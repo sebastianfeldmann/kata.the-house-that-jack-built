@@ -1,6 +1,8 @@
-# Kata: The House that Jack built
+# Kata: The House That Jack Built
 
-Full poem recite should look like this:
+Your task is to build an app the recites the nursery rhyme `The House That Jack Built`.
+
+Full recite should look like this:
 
     This is the house that jack built.
      
