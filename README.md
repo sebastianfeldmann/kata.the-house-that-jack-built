@@ -4,10 +4,10 @@ Your task is to build an app the recites the nursery rhyme `The House That Jack 
 
 Full recite should look like this:
 
-    This is the house that jack built.
+    This is the house that Jack built.
      
     This is the malt that lay in
-    the house that jack built.
+    the house that Jack built.
      
     This is the rat that ate
     the malt that lay in
